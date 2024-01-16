@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a8b2e78f972331105ad5f84de053af1d" extends="cmdb_ci_hardware" label="DemoLaptopClass" max_length="40" name="x_58872_needit_u_cmdb_ci_demolaptopclass" type="collection"/>
+</database>
